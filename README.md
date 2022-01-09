@@ -9,7 +9,7 @@
 
 ##
 
-## Criando banco de dados "users"
+## Criando banco de dados
 
 Utilizaremos o banco MySQL, certifique-se de que o tenha, crie um banco de dados vazio com o nome `users`;
 
